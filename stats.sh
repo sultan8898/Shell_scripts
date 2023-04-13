@@ -43,5 +43,3 @@ case "$input" in
         echo "Invalid input"
         ;;
 esac
-
-}
